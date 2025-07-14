@@ -54,14 +54,12 @@ This is a **static clone** of the Amazon homepage built with **HTML** and **CSS*
 
 Follow these steps to view it locally:
 
-### 1️⃣ Clone the Repository
-
+### Clone the Repository
+```bash
 git clone https://github.com/your-username/amazon-clone.git
 cd amazon-clone
-
-### 2️⃣ Open in Browser
 Just open the index.html file directly in your preferred browser.
-
+```
 ---
 
 ## 🙋‍♂️ Connect with Me
